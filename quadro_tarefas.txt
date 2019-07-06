@@ -1,0 +1,9 @@
+=======================================TO DO=============================================
+DESCRICAO:Ver jogos mundial	 ID:6	 PRIORIDADE:8	 DATA_CRIACAO:15/6/2018	  PRAZO:0/0/0	 DATA_FIM:0/0/0
+DESCRICAO:Descansar	 ID:5	 PRIORIDADE:5	 DATA_CRIACAO:15/6/2018	  PRAZO:0/0/0	 DATA_FIM:0/0/0
+=======================================DOING=============================================
+DESCRICAO:Estudar AMII	 ID:2	 PRIORIDADE:3	 DATA_CRIACAO:27/5/2018	  PRAZO:6/6/2018	 DATA_FIM:0/0/0
+DESCRICAO:Estudar PPP	 ID:4	 PRIORIDADE:5	 DATA_CRIACAO:20/5/2018	  PRAZO:31/5/2018	 DATA_FIM:0/0/0
+=======================================DONE==============================================
+DESCRICAO:Estudar TFM	 ID:3	 PRIORIDADE:4	 DATA_CRIACAO:15/5/2018	  PRAZO:22/5/2018	 DATA_FIM:23/5/2018
+DESCRICAO:Entregar projeto	 ID:1	 PRIORIDADE:2	 DATA_CRIACAO:2/3/2018	  PRAZO:26/5/2018	 DATA_FIM:27/5/2018
